@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+qa/
+.taste-skill/
+.cache/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
