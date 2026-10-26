@@ -2,10 +2,11 @@ node_modules/
 dist/
 test-results/
 playwright-report/
+*.tsbuildinfo
+.cache/
+
 qa/
 .taste-skill/
-.cache/
 .env
 .env.*
 !.env.example
-*.tsbuildinfo
